@@ -1,4 +1,4 @@
-package com.br.wishlist.controllers;
+package com.br.wishlist.controller;
 
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.web.PageableDefault;
